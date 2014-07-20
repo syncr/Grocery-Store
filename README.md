@@ -1,5 +1,4 @@
 Grocery Store
 =============
 
-## This will be a grocery store.  The object will contain an inventory.  
-##The values within the object are objects of items, price, and calorie count.
+Basic grocery store program that creates performs basic additive function on objects within a shopping cart to tally calories.
